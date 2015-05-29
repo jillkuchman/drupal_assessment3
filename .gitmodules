@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/simple_guestbook_comment_module"]
+	path = sites/all/modules/simple_guestbook_comment_module
+	url = https://github.com/jillkuchman/simple_guestbook_comment_module.git
